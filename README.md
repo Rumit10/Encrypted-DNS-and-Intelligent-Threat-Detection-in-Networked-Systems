@@ -1,3 +1,4 @@
+# DNS-Crypt
 In my project, I have implemented two methods for dns security:
 
 1. DNS CRYPT:
@@ -17,8 +18,3 @@ To incorporate these datasets into your local project, kindly follow these simpl
 3. Once downloaded, add these four files to the designated directory within our project: doh/processed_data/
 
 By following these instructions, you'll be able to access and use the necessary datasets for the project. If you encounter any issues or have any questions, feel free to reach out to me. Thank you for your cooperation!
-
-
-
-
-# DNS-Crypt
